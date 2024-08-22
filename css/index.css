@@ -602,7 +602,7 @@ footer .media #media-icon{
       }
       .content2-about span {
           font-size: 16px;
-          margin-left: 140px;
+          margin: auto;
           padding: 0 8px;
       }
       .content2-about h2 {
@@ -638,7 +638,7 @@ footer .media #media-icon{
       /* Footer */
       footer{
           padding: 0 40px;
-          height: 180px;
+          height: 280px;
           text-align: center;
       }
       footer ul li{
@@ -646,7 +646,7 @@ footer .media #media-icon{
           line-height: 28px;
       }
       footer .media {
-          gap: 20px;
+          gap: 5px;
       }
       footer .media #media-icon{
           width: 24px;
